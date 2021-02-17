@@ -4,7 +4,7 @@ What is Spring Weather Project About?
 In the project weather information are obtained by parsing the JSON data using free version weather api(OpenWeatherMap).
 <br/>
 <br/>
-How It Works<br/>
+How It Works?<br/>
 There are two types of users in the project. These; Admin and User are user types. When the program is opened, users log-in from the user login screen which is developed with Spring Boot Security. After successful login, the user is directed to the "/ home" address with his / her weather information.
 
 The users in the program have authority according to the user types. Admin user type; While it has the privileges of creating, deleting and updating users, the User type has the authority to add, delete cities and view weather conditions.
